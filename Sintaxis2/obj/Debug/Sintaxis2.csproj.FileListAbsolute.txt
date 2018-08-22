@@ -1,0 +1,7 @@
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\bin\Debug\Sintaxis2.exe.config
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\bin\Debug\Sintaxis2.exe
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\bin\Debug\Sintaxis2.pdb
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\obj\Debug\Sintaxis2.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\obj\Debug\Sintaxis2.exe
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\obj\Debug\Sintaxis2.pdb
+C:\Users\qwerty\source\repos\Sintaxis2\Sintaxis2\obj\Debug\Sintaxis2.csprojAssemblyReference.cache
